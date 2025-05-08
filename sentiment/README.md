@@ -91,5 +91,8 @@ doesn’t justify a significant change in the valuation of the company and days 
 Over the testing period, the sentiment portfolio does outperform but eventually the excess returns evaporates and is even with the regular portfolio. This pattern raises an important question of how frequent the portfolio should be re-evaluated given that the focus is on short term sentiment. While quarterly re-adjustment could be an ideal starting point, it may not be a timeframe that works very well. A deeper analysis is needed to identify the optimal re-evaluation window or a metric that detects sentiment reversal.
 
 
+![Portfolio_weights (1)](https://github.com/user-attachments/assets/12d6d681-5c88-4c20-ab10-ed32ff36e2e5)
+
+
 
 
