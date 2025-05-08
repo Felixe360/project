@@ -82,12 +82,13 @@ These adjusted returns were used in **mean-variance optimization** to calculate 
 ## Findings: ##
 
 
-![Portfolio_cumulative_returns](https://github.com/user-attachments/assets/48d810e6-5bc6-479a-a24c-8fd334994c30)
 
+<img width="1180" alt="Screenshot 2025-05-08 at 10 20 14 AM" src="https://github.com/user-attachments/assets/09f42a4b-b014-47c3-8760-4312e829e42a" />
 
+Adjusting weights by sentiment does result in better performance across all averages but the most optimal is between 15-20 days. This waiting period allows initial reactions to stabilize and begin to trend in a meaningful direction. Markets are highly efficient in pricing news instantly, but sometimes reactions can be exaggerated, leading to short term mispricing. For example, during ROKU’s earnings calls in 2024 Q3, the company beat expectations in revenue and EPS but resulted in a 13% price decline due to uncertain guidance for the following year. This price drop 
+doesn’t justify a significant change in the valuation of the company and days after the announcement, the stock was trading above the price before the earnings call.  At times the stock may rebound days after the announcement which the 15-20 day sentiment window tries to take into account by providing a more balanced view of the sentiment. 
 
-
-
+Over the testing period, the sentiment portfolio does outperform but eventually the excess returns evaporates and is even with the regular portfolio. This pattern raises an important question of how frequent the portfolio should be re-evaluated given that the focus is on short term sentiment. While quarterly re-adjustment could be an ideal starting point, it may not be a timeframe that works very well. A deeper analysis is needed to identify the optimal re-evaluation window or a metric that detects sentiment reversal.
 
 
 
