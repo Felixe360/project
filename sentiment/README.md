@@ -82,9 +82,10 @@ These adjusted returns were used in **mean-variance optimization** to calculate 
 ## Findings: ##
 
 
+![Portfolio_cumulative_returns](https://github.com/user-attachments/assets/48d810e6-5bc6-479a-a24c-8fd334994c30)
 
 
-![Portfolio_cumulative_returns](https://github.com/user-attachments/assets/6e521823-e712-4da5-bcba-96cd3e25094c)
+
 
 
 
